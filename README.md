@@ -1,5 +1,10 @@
 # 🎮 Eastrica Windows Gaming Kiosk (Детский Игровой Киоск)
 
+![Windows](https://img.shields.io/badge/OS-Windows%2010%20%7C%2011-blue?style=flat-square&logo=windows)
+![PowerShell](https://img.shields.io/badge/Script-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=flat-square)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+
 *🇷🇺 Выберите язык / 🇬🇧 Choose your language:*
 
 * [🇷🇺 Русская версия (Russian)](#-русская-версия)
